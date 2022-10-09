@@ -28,7 +28,7 @@ export const categories = [
   { name: "Podcast", icon: <GraphicEqIcon /> },
   { name: "Movie", icon: <OndemandVideoIcon /> },
   { name: "Gaming", icon: <SportsEsportsIcon /> },
-  { name: "Sport", icon: <FitnessCenterIcon /> },
+  { name: "Sports", icon: <FitnessCenterIcon /> },
   { name: "Fashion", icon: <CheckroomIcon /> },
   { name: "Beauty", icon: <FaceRetouchingNaturalIcon /> },
   { name: "Comedy", icon: <TheaterComedyIcon /> },
